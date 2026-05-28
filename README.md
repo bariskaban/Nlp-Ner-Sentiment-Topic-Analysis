@@ -1,8 +1,5 @@
-# Text Mining for AI -- Group 46 Final Project
-
+# Text Mining for AI 
 **Authors:** Goktu YILDIRIM, Baris KABAN, Murat GUNDOGAN, Danila Popusoi  
-**Course:** Text Mining for AI  
-**Group:** 46
 
 ---
 
