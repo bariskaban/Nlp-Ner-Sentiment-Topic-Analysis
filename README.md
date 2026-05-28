@@ -1,5 +1,5 @@
 # Text Mining for AI 
-**Authors:** Goktu YILDIRIM, Baris KABAN, Murat GUNDOGAN, Danila Popusoi  
+**Authors:** Goktug Yildirim, Baris Kaban, Murat Gundogan, Danila Popusoi
 
 ---
 
