@@ -1,0 +1,12 @@
+# Licensed datasets -- do not redistribute
+airlinetweets/
+train.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.egg-info/
