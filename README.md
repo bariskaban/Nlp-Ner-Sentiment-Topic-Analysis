@@ -30,7 +30,7 @@ All tasks are evaluated against a shared held-out test set of 10 sentences with 
 ## Repository Structure
 
 ```
-Group46_project/
+Nlp-Ner-Sentiment-Topic-Analysis/
 |-- Sentiment_task.ipynb                  # Sentiment analysis (deep task): VADER, Naive Bayes, Transformer
 |-- NER.ipynb                             # Named entity recognition with a linear SVM
 |-- Topic.ipynb                           # Topic classification with TF-IDF and Multinomial Naive Bayes
